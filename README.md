@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Potharlanka Naga Keerthi<br>Computer Science and Engineering Undergraduate<br>Full-Stack Developer  <br>Data Analyst
+Hi there 👋, I'm Potharlanka Naga Keerthi<br>Computer Science and Engineering Undergraduate<br>Full-Stack Developer  <br>Data Analyst <br>Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
