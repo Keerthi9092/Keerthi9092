@@ -25,4 +25,7 @@ Hi there 👋, I'm Potharlanka Naga Keerthi<br> 🧑‍💻 Python Developer & M
 
 ---
 
+
+⭐ If you like what I do, consider giving my repos a star! ⭐
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
