@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there 👋, I'm Potharlanka Naga Keerthi<br>Computer Science and Engineering Undergraduate<br>Full-Stack Developer  <br>Data Analyst <br>Always learning and exploring new technologies
+Hi there 👋, I'm Potharlanka Naga Keerthi<br> 🧑‍💻 Python Developer & Machine Learning Enthusiast building intelligent applications.<br>
+🧠 Skilled in data-driven solutions, APIs, and backend development.<br>
+⚙️ Exploring AI/ML models, automation, and scalable systems.<br>
+📈 Focused on continuous growth and delivering impactful tech solutions.<br>Full-Stack Developer  <br>Data Analyst <br>Always learning and exploring new technologies
 
 
 ## 🌐 Socials:
